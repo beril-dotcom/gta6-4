@@ -1,0 +1,8 @@
+node_modules/
+.next/
+out/
+.playwright-mcp/
+.DS_Store
+*.tsbuildinfo
+.env*
+!.env.example
